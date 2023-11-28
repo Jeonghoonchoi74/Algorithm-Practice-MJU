@@ -1,6 +1,6 @@
 //binary search tree
 public class Main {
-    public static void binarySearch(int A[], int first, int last, int x){
+    public static void binarySearch(int[] A, int first, int last, int x){
         int mid = (first + last)/2;
         while(first <= last){
             if(A[mid] < x){
