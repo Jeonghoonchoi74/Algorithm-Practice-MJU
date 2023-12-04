@@ -1,3 +1,4 @@
+//cutRod_DC
 public class Main {
     public static void main(String[] args) {
         int[] prices = {1, 5, 8, 9, 10, 17, 17, 20, 24, 30, 31, 32, 33, 34, 35, 36, 37, 38};
